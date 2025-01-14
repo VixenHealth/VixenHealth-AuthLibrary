@@ -13,6 +13,11 @@ pip install dist/jwt_auth-1.0.0-py3-none-any.whl --force-reinstall
 
 3. Вы прекрасны
 
+Установка:
+```bash
+pip install git+https://github.com/VixenHealth/VixenHealth-AuthLibrary.git@master
+```
+
 > Важно отметить, что при редактировании библиотеки нужно использовать relative imports.
 
 > Важно отметить #2
